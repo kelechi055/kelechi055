@@ -10,11 +10,18 @@
 
 ### 👨‍💻 About Me :
 
-• 🔭 Computer Science @ Loyola University Maryland <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
-• ⚡ Fun fact: I have 23K on YouTube
 <div>
+  <li>
+    🔭 I study Computer Science @ Loyola University Maryland <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
+  </li>
+  <li>
+    ⚡ Fun fact: I have 23K Subscribers on YouTube
+  </li>
+
+---
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
+  
 
 ---
 
