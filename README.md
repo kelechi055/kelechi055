@@ -5,6 +5,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<a href="https://www.linkedin.com/in/kelechi-opurum/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  
+</a>
+
+
 
 ---
 
@@ -16,16 +22,10 @@
   </li>
   <li>
     ⚡ Fun fact: I have 23K Subscribers on YouTube
+   ㅤㅤㅤㅤ
   </li>
 
----
 </div>
-<a href="https://www.linkedin.com/in/kelechi-opurum/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-
-  
-
 ---
 
 
