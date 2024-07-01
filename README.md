@@ -21,7 +21,9 @@
   <li>
     :people_hugging: Im open to collaborating on various projects—hmu!
   </li>
-
+  
+---
+  
 ### 🫱🏾‍🫲🏾 Let's Connect!
 </div>
 <a href="https://www.linkedin.com/in/kelechi-opurum/" target="_blank" title="LinkedIn">
