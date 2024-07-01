@@ -1,16 +1,7 @@
-
-
-<h1>
-  Hello!
+<h1 align="center">
+  Hello! I'm Kelechi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-<a href="https://www.linkedin.com/in/kelechi-opurum/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  
-</a>
-
-
 
 ---
 
@@ -21,11 +12,16 @@
     🔭 I study Computer Science @ Loyola University Maryland <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
   </li>
   <li>
-    ⚡ Fun fact: I have 23K Subscribers on YouTube
-   ㅤㅤㅤㅤ
+    ⚡ Fun fact: I have 23,000+ Subscribers on YouTubeㅤㅤ
   </li>
 
+### 🤝 Connect with me on LinkedIn!
 </div>
+<a href="https://www.linkedin.com/in/kelechi-opurum/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  
+</a>
+
 ---
 
 
