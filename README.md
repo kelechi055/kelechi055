@@ -14,7 +14,7 @@
     ⚡ Fun fact: I have 23,000+ Subscribers on YouTube
   </li>
   <li>
-    🫂 I am seeking to collaborate on various projects—hmu!
+    🫂 I'd love to collaborate on various projects—hmu!
   </li>
 
 ### 🤝 Connect with me on LinkedIn!
