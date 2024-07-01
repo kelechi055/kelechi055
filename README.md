@@ -75,6 +75,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=kelechi055&theme=dark&background=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelechi055&layout=compact&bg_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelechi055&layout=compact&theme=vision-friendly-dark&background=000000)
+
 
 </div>
