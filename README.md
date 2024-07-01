@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=kelechi055&style=flat-square" alt="GitHub profile views">
+    <img src="https://komarev.com/ghpvc/?username=kelechi055&style=flat-square&color=00CC00" alt="GitHub profile views">
 </div>
 
 ### 👨‍💻 About Me :
@@ -68,8 +68,16 @@
 
 ### :fire: My GitHub Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kelechi055&theme=dark&background=000000)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelechi055&layout=compact&bg_color=000000)]
-
+<div align="center">
+    <img
+        src="http://github-readme-streak-stats.herokuapp.com?user=kelechi055&theme=dark&background=90,004D00,00CC00&border_radius=25&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00"
+        alt="GitHub Streak"
+        style="background-color: transparent; margin-bottom: 20px;"
+    />
 </div>
+
+  <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelechi055&layout=compact&bg_color=90,004D00,00CC00&title_color=00FF00&text_color=00FF00&card_width=300&border_radius=25&border_color=00FF00"
+        alt="Top Languages"
+        style="background-color: transparent;"
+    />
