@@ -19,7 +19,7 @@
   <li>
     :writing_hand: What im currently working on: A Wheel of Fortune Game
   <li>
-    :people_hugging: Im open to collaborate on various projects—hmu!
+    :people_hugging: Im open to collaborating on various projects—hmu!
   </li>
 
 ### 🫱🏾‍🫲🏾 Let's Connect!
