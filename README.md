@@ -17,7 +17,7 @@
     🫂 I'd love to collaborate on various projects—hmu!
   </li>
 
-### 🤝 Connect with me!
+### 🤝 Lets Connect!
 </div>
 <a href="https://www.linkedin.com/in/kelechi-opurum/" target="_blank" title="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
