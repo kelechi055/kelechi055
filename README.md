@@ -4,10 +4,10 @@
 </h1>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=kelechi055&style=flat-square&color=00CC00" alt="GitHub profile views">
+    <img src="https://komarev.com/ghpvc/?username=kelechi055&style=flat-square&color=blue" alt="GitHub profile views">
 </div>
 
-### 👨‍💻 About Me :
+### 👨🏾‍💻 About Me :
 
 <div>
   <li>
@@ -20,7 +20,7 @@
     🫂 Im open to collaborate on various projects—hmu!
   </li>
 
-### 🤝 Let's Connect!
+### 🫱🏾‍🫲🏾 Let's Connect!
 </div>
 <a href="https://www.linkedin.com/in/kelechi-opurum/" target="_blank" title="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -33,7 +33,7 @@
 ---
 
 
-### 🦜 Languages:
+### 🧠 Languages:
 <div>
   <img src="https://camo.githubusercontent.com/b0648ef7a9b6980ea27c1caaeb06d5c8503dbb4f9b4d9d7ca1df60a5edc14340/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465" title="Java"/>
   <img src="https://camo.githubusercontent.com/0562f16a4ae7e35dae6087bf8b7805fb7e664a9e7e20ae6d163d94e56b94f32d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" title = "Python"/>
@@ -63,21 +63,13 @@
   
 </div>
 
----
+
 <div align="center">
 
 ### :fire: My GitHub Stats:
 
-<div align="center">
-    <img
-        src="http://github-readme-streak-stats.herokuapp.com?user=kelechi055&theme=dark&background=90,004D00,00CC00&border_radius=25&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00"
-        alt="GitHub Streak"
-        style="background-color: transparent; margin-bottom: 20px;"
-    />
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kelechi055&theme=dark&background=000000)]
 
-  <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelechi055&layout=compact&bg_color=90,004D00,00CC00&title_color=00FF00&text_color=00FF00&card_width=300&border_radius=25&border_color=00FF00"
-        alt="Top Languages"
-        style="background-color: transparent;"
-    />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelechi055&layout=compact&bg_color=000000)]
+
+</div>
