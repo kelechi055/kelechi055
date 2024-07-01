@@ -73,7 +73,7 @@
 
 ### :fire: My GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kelechi055&theme=highcontrast)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=kelechi055&theme=highcontrast&border_radius=&fire=EB0000&border=EBEBEB)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelechi055&layout=compact&theme=vision-friendly-dark)
 
