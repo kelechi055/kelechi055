@@ -14,7 +14,7 @@
     ⚡ Fun fact: I have 23,000+ Subscribers on YouTube
   </li>
   <li>
-    🫂 I'd love to collaborate on various projects—hmu!
+    🫂 Im open to collaborate on various projects—hmu!
   </li>
 
 ### 🤝 Let's Connect!
@@ -58,6 +58,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" height="40"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/029/453/109/large_2x/ai-and-automation-icon-vector.jpg" title= "AI/ML" width="40" height="40"/>
   
   
 </div>
