@@ -12,7 +12,10 @@
     🔭 I study Computer Science @ Loyola University Maryland <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
   </li>
   <li>
-    ⚡ Fun fact: I have 23,000+ Subscribers on YouTubeㅤㅤ
+    ⚡ Fun fact: I have 23,000+ Subscribers on YouTube
+  </li>
+  <li>
+    🫂 I am seeking to collaborate on various projects—hmu!
   </li>
 
 ### 🤝 Connect with me on LinkedIn!
