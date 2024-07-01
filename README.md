@@ -65,5 +65,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kelechi055&theme=dark&background=000000)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelechi055&layout=compact&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelechi055&layout=compact&bg_color=000000)]
 
