@@ -14,10 +14,12 @@
     🔭 I study Computer Science @ Loyola University Maryland <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
   </li>
   <li>
-    ⚡ Fun fact: I have a gaming channel with 23,000+ Subscribers on YouTube
+    :zap: Fun fact: I have a gaming channel with 23,000+ Subscribers on YouTube
   </li>
   <li>
-    🫂 Im open to collaborate on various projects—hmu!
+    :writing_hand: What im currently working on: A Wheel of Fortune Game
+  <li>
+    :people_hugging: Im open to collaborate on various projects—hmu!
   </li>
 
 ### 🫱🏾‍🫲🏾 Let's Connect!
