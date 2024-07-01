@@ -39,18 +39,24 @@
 
 ---
 
-### :hammer_and_wrench: Developer Tools:
+### :hammer_and_wrench: Tools:
 
 <div>
-  <img src="https://camo.githubusercontent.com/18cfdc02648d5adceb0e43e3ebb80742421d56122e2a76a1cc3f7ab7eafd6780/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f6173736574732f4769744875622d4d61726b2d6561323937316365653739392e706e67" title="GitHub" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/18cfdc02648d5adceb0e43e3ebb80742421d56122e2a76a1cc3f7ab7eafd6780/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f6173736574732f4769744875622d4d61726b2d6561323937316365653739392e706e67" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg"  title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/eclipse/eclipse-original.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/replit/replit-original.svg" title="Replit" alt="Replit" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" title= "Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
 ---
+
+### :brain: Currently Learning:
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
+</div>
+
 
 ### :fire: My GitHub Stats:
 
