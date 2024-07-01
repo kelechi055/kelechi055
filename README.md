@@ -73,9 +73,7 @@
 
 ### :fire: My GitHub Stats:
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=kelechi055&theme=highcontrast" alt="GitHub Streak" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=kelechi055&theme=highcontrast)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelechi055&layout=compact&theme=vision-friendly-dark)
 
