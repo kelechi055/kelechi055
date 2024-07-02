@@ -8,7 +8,6 @@
 </div>
 
 ### 👨🏾‍💻 About Me :
-
 <div>
   <li>
     🔭 I study Computer Science @ Loyola University Maryland <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
