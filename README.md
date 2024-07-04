@@ -45,10 +45,7 @@
 ### 🫱🏾‍🫲🏾 Let's Connect!
 </div>
 <a href="https://www.linkedin.com/in/kelechi-opurum/" target="_blank" title="LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href = "mailto:kelechiopurum2005@gmail.com" target="_blank" title="Gmail">
-  <img src="https://camo.githubusercontent.com/8fd233c5bef057659c3b9514d1d590d8c5984a807effcdf64ec72091d43ef99e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt = "Gmail"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40"/>
 </a>
 </div>
 
