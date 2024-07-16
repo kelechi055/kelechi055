@@ -16,7 +16,7 @@
     :zap: Fun fact: I have a gaming channel with 23,000+ Subscribers on YouTube
   </li>
   <li>
-    :writing_hand: What im currently working on: My portfolio website, GameStock (a web app me and my team developed for video game company investments/stock prices/news, etc), learning javascript and an instagram follower checker
+    :writing_hand: What im currently working on: Updatin my portfolio and Brushing up on python 
   <li>
     :people_hugging: Im open to collaborating on various projects—hmu!
   </li>
