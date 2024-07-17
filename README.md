@@ -16,7 +16,7 @@
     :zap: Fun fact: I have a gaming channel with 23,000+ Subscribers on YouTube
   </li>
   <li>
-    :writing_hand: What im currently working on: Updating my portfolio and Brushing up on python 
+    :writing_hand: What im currently working on: Brushing up on python/leetcode
   <li>
     :people_hugging: Im open to collaborating on various projects—hmu!
   </li>
