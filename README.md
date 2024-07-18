@@ -13,7 +13,7 @@
     🔭 I study Computer Science @ Loyola University Maryland <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
   </li>
   <li>
-    :zap: Fun fact: I have a gaming channel with 23,000+ Subscribers on YouTube
+    :zap: Fun fact: I have a gaming channel with 23k on YouTube
   </li>
   <li>
     :writing_hand: What im currently working on: Brushing up on python/leetcode
