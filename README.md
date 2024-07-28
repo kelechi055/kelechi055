@@ -16,9 +16,9 @@
     :zap: Fun fact: I have a gaming channel with 23k on YouTube
   </li>
   <li>
-    :writing_hand: What im currently working on: Brushing up on python/leetcode
+    :writing_hand: What im currently working on: Leetcode & Personal projects
   <li>
-    :people_hugging: Im open to collaborating on various projects—hmu!
+    :people_hugging: Im open to collaborating on projects/hackathons—hmu!
   </li>
   
 ---
