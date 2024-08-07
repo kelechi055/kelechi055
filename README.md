@@ -48,10 +48,6 @@
             width="40" title="IntelliJ"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" 
             width="40" title="Replit"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" 
-            width="40" title="Eclipse"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" 
-            width="40" title="Heroku"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
             width="40" title="Vercel"/> 
             <br> 
