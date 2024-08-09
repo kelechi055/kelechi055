@@ -13,7 +13,7 @@
     🔭 CS @ Loyola University Maryland <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
   </li>
   <li>
-    🌱 Im currently working onLeetcode and JavaScript
+    🌱 Im currently working on Leetcode and JavaScript
   </li>
   
 ---
