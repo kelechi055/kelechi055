@@ -38,14 +38,14 @@
             width="40" title="Next.js"/>  
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
             width="40"title="TailwindCSS"/>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/firebase/firebase-original.svg"
+            width="40"title="Firebase"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
             width="40" title="VS Code"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
             width="40" title="GitHub"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
             width="40" title="IntelliJ"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" 
-            width="40" title="Replit"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
             width="40" title="Vercel"/> 
             <br> 
