@@ -20,34 +20,40 @@
 
 ### 🧠 Languages and Tools:
 <div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+            <img src="https://skillicons.dev/icons?i=python"
             width="40" title="Python" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+            <img src="https://skillicons.dev/icons?i=java" 
             width="40" title="Java"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+            <img src="https://skillicons.dev/icons?i=html" 
             width="40" title="HTML"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+            <img src="https://skillicons.dev/icons?i=css" 
             width="40" title="CSS"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+            <img src="https://skillicons.dev/icons?i=typescript"
             width="40" title="TypeScript"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+            <img src="https://skillicons.dev/icons?i=javascript" 
             width="40" title="JavaScript"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+  <br> 
+            <img src="https://skillicons.dev/icons?i=react"
             width="40" title="React"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+            <img src="https://skillicons.dev/icons?i=nextjs"
             width="40" title="Next.js"/>  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+            <img src="https://skillicons.dev/icons?i=tailwind"
             width="40"title="TailwindCSS"/>
-              <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/firebase/firebase-original.svg"
+            <img src="https://skillicons.dev/icons?i=materialui"
+            width="40" title="Material UI"/> 
+  <br> 
+            <img src="https://skillicons.dev/icons?i=firebase"
             width="40"title="Firebase"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+            <img src="https://skillicons.dev/icons?i=vscode" 
             width="40" title="VS Code"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+            <img src="https://skillicons.dev/icons?i=github" 
             width="40" title="GitHub"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
-            width="40" title="IntelliJ"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+            <img src="https://skillicons.dev/icons?i=vercel"
             width="40" title="Vercel"/> 
+            <img src="https://skillicons.dev/icons?i=figma" 
+            width="40" title="Figma"/>
+            <img src="https://skillicons.dev/icons?i=photoshop" 
+            width="40" title="Photoshop"/>
             <br> 
 </div>
 
@@ -56,8 +62,9 @@
 ### 🫱🏾‍🫲🏾 Let's Connect!
 </div>
 <a href="https://www.linkedin.com/in/kelechi-opurum/" target="_blank" title="LinkedIn">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
+
 </div>
 
 ---
