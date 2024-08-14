@@ -40,7 +40,9 @@
             <img src="https://skillicons.dev/icons?i=tailwind"
             width="40"title="TailwindCSS"/>
             <img src="https://skillicons.dev/icons?i=materialui"
-            width="40" title="Material UI"/> 
+            width="40" title="Material-UI"/> 
+            <img src="https://skillicons.dev/icons?i=nodejs"
+            width="40" title="Node.js"/> 
   <br> 
             <img src="https://skillicons.dev/icons?i=firebase"
             width="40"title="Firebase"/>
