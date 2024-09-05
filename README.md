@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=kelechi055&style=flat-square&color=blue" alt="GitHub profile views"> <img src="https://wakatime.com/badge/user/b7c26856-cfc9-48ca-a96c-162288466272.svg">
+    <img src="https://komarev.com/ghpvc/?username=kelechi055&style=flat-square&color=blue" alt="GitHub profile views">
 </div>
 
 ### 👨🏾‍💻 About Me :
