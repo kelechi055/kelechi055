@@ -15,6 +15,9 @@
   <li>
     👨🏾‍💻 SWE Intern @ OpenQQuantify
   </li>
+<li>
+  🌱 What I'm currently working on: Adding more features to <a href="https://cardwiz-ai.vercel.app" target="_blank">Cardwiz</a>, an AI-powered flashcard generator.
+</li>
   
 ---
 
