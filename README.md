@@ -13,7 +13,7 @@
     🔭 CS @ Loyola University Maryland <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
   </li>
   <li>
-    👨🏾‍💻 SWE Intern @ OpenQQuantify <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
+    👨🏾‍💻 SWE Intern @ OpenQQuantify
   </li>
   
 ---
