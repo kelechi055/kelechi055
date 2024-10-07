@@ -13,7 +13,7 @@
     🔭 CS @ Loyola University Maryland <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
   </li>
   <li>
-    👨🏾‍💻 SWE Intern @ OpenQQuantify
+    👨🏾‍💻 Software Engineer Intern @ OpenQQuantify
   </li>
 <li>
   🌱 What I'm currently working on: Adding more features to <a href="https://cardwiz-ai.vercel.app" target="_blank">Cardwiz</a>, an AI-powered flashcard generator.
