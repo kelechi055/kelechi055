@@ -18,6 +18,10 @@
 <li>
   🌱 What I'm currently working on: Adding more features to <a href="https://cardwiz-ai.vercel.app" target="_blank">Cardwiz</a>, an AI-powered flashcard generator.
 </li>
+<li>
+  💻 You can find all my projects <a href="https://kelechiopurum.vercel.app/projects.html" target="_blank">here</a>.
+</li>
+
   
 ---
 
