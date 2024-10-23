@@ -22,7 +22,7 @@
       Adding document uploads to <a href="https://cardwiz-ai.vercel.app" target="_blank">Cardwiz</a>, an AI-powered flashcard generator 👀
     </li>
     <li>
-      Building @ OpenQQuantify 🧑🏾‍💻
+      LC 😶‍🌫️
     </li>
   </ul>
 </li>
