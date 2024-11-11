@@ -12,20 +12,21 @@
   <li>
     🔭 CS @ Loyola University Maryland <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
   </li>
-  <li>
-    👨🏾‍💻 Software Engineer Intern @ OpenQQuantify
-  </li>
 <li>
   🌱 What I'm currently working on:
   <ul class="custom-bullets">
     <li>
-      Adding document uploads to <a href="https://cardwiz-ai.vercel.app" target="_blank">Cardwiz</a>, an AI-powered flashcard generator 👀
+      Adding document uploads to <a href="https://cardwiz-ai.vercel.app" target="_blank">Cardwiz</a>, an AI-powered flashcard study tool 👀
     </li>
   </ul>
 </li>
 
 <li>
   💻 You can find all my projects <a href="https://kelechiopurum.vercel.app/projects.html" target="_blank">here</a>.
+</li>
+
+<li>
+  ⚡ Fun fact: I have 25K on YouTube
 </li>
 
   
