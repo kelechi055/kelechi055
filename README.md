@@ -13,7 +13,9 @@
   <li>
     🔭 CS @ Loyola University Maryland <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
   </li>
-
+  <li>
+    🌱 What I'm currently learning: JavaScript & DSA <br> 
+  </li>
 <li>
   💻 You can find all my projects <a href="https://kelechiopurum.vercel.app/projects.html" target="_blank">here</a>.
 </li>
