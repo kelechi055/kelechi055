@@ -58,8 +58,6 @@
             width="40" title="Vercel"/> 
             <img src="https://skillicons.dev/icons?i=figma" 
             width="40" title="Figma"/>
-            <img src="https://skillicons.dev/icons?i=photoshop" 
-            width="40" title="Photoshop"/>
             <br> 
 </div>
 
