@@ -19,6 +19,9 @@
 <li>
   💻 You can find all my projects <a href="https://kelechiopurum.vercel.app/projects.html" target="_blank">here</a>.
 </li>
+<li>
+  🏆 2x Hackathon Winner
+</li>
   
 ---
 
