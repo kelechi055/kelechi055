@@ -22,6 +22,9 @@
 <li>
   🏆 2x Hackathon Winner
 </li>
+<li>
+  ⚡ Fun Fact: I'm a gaming YouTuber with 26.5k subs and 4.2M+ views! 🎮
+</li>
   
 ---
 
