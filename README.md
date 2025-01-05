@@ -5,7 +5,6 @@
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=kelechi055&style=flat-square&color=blue" alt="GitHub profile views">
-    <img src="https://wakatime.com/badge/user/b7c26856-cfc9-48ca-a96c-162288466272.svg"> 
 </div>
 
 ### 👨🏾‍💻 About Me :
@@ -22,6 +21,10 @@
 <li>
   🏆 2x Hackathon Winner
 </li>
+<li>
+  📫 How to reach me: <a href="https://www.linkedin.com/in/kelechi-opurum/" target="_blank">linkedin/kelechi-opurum</a> or <a href = "mailto:kelechiopurum2005@gmail.com">send an email</a>
+</li>
+
   
 ---
 
@@ -65,23 +68,19 @@
 </div>
 
 ---
-
-### 🫱🏾‍🫲🏾 Let's Connect!
-</div>
-<a href="https://www.linkedin.com/in/kelechi-opurum/" target="_blank" title="LinkedIn">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-</a>
-
-</div>
-
----
 <div align="center">
 
-### :fire: My GitHub Stats:
+### :fire: My Stats:
+
+<img src="https://wakatime.com/badge/user/b7c26856-cfc9-48ca-a96c-162288466272.svg"> 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kelechi055&theme=highcontrast)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelechi055&layout=compact&theme=vision-friendly-dark)
+
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=kelechi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kelechi&theme=vision-friendly-dark&layout=compact&hide_border=false" />
+</a>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
