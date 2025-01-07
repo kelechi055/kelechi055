@@ -82,15 +82,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kelechi&theme=vision-friendly-dark&layout=compact&hide_border=false" />
 </a>
 
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript   2 hrs 51 mins   ███████████████████████▒░   93.10 %
-Python       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-CSS          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-```
-
-<!--END_SECTION:waka-->
-
 </div>
