@@ -79,7 +79,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelechi055&layout=compact&theme=vision-friendly-dark)
 
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=kelechi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kelechi&theme=vision-friendly-dark&layout=compact&hide_border=false" />
 </a>
 
 </div>
