@@ -69,10 +69,9 @@
 
 ---
 <div align="center">
-
-### :fire: My Stats:
-
 <img src="https://wakatime.com/badge/user/b7c26856-cfc9-48ca-a96c-162288466272.svg"> 
+    
+### :fire: My Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kelechi055&theme=highcontrast)](https://git.io/streak-stats)
 
