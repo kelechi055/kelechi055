@@ -13,7 +13,7 @@
     🔭 CS @ Loyola University Maryland <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
   </li>
   <li>
-    🚀 Incoming SWE Intern @ Arm (Summer 2025) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
+    🚀 Incoming SWE Intern @ Arm (Summer 2025)<br> 
   </li>
   <li>
     🌱 What I'm currently learning: JavaScript & DSA <br> 
