@@ -22,7 +22,7 @@
   💻 You can find all my projects <a href="https://kelechiopurum.vercel.app/projects.html" target="_blank">here</a>.
 </li>
 <li>
-  🏆 2x Hackathon Winner
+  🏆 4x Hackathon Winner
 </li>
 <li>
   📫 How to reach me: <a href="https://www.linkedin.com/in/kelechi-opurum/" target="_blank">linkedin/kelechi-opurum</a> or <a href = "mailto:kelechiopurum2005@gmail.com">send an email</a>
