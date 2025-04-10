@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Hello! I'm Kelechi
+  Hi, I'm Kelechi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -19,7 +19,7 @@
     🌱 What I'm currently learning: JavaScript & DSA <br> 
   </li>
 <li>
-  💻 You can find all my projects <a href="https://kelechiopurum.vercel.app/projects.html" target="_blank">here</a>.
+  💻 You can find all my projects <a href="https://kelechiopurum.vercel.app/#projects" target="_blank">here</a>.
 </li>
 <li>
   🏆 4x Hackathon Winner
