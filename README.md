@@ -73,6 +73,8 @@
     
 ### :fire: My Stats:
 
+[![Kelechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelechi055&show_icons=true&theme=vision-friendly-dark)](https://github.com/kelechi055/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=kelechi055&theme=highcontrast)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelechi055&layout=compact&theme=vision-friendly-dark)
