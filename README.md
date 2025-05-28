@@ -10,19 +10,19 @@
 ### 👨🏾‍💻 About Me :
 <div>
   <li>
-    🔭 CS @ Loyola University Maryland <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
+    🔭 cs @ loyola university maryland <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
   </li>
   <li>
-    🌱 What I'm currently learning: Python and Linux <br> 
+    🌱 what i'm currently learning: python and linux <br> 
   </li>
 <li>
-  💻 You can find all my projects <a href="https://kelechiopurum.vercel.app/#projects" target="_blank">here</a>.
+  💻 check out my prev projects <a href="https://kelop.vercel.app/#projects" target="_blank">here</a>.
 </li>
 <li>
-  🏆 4x Hackathon Winner
+  🏆 4x hackathon winner
 </li>
 <li>
-  📫 How to reach me: <a href="https://www.linkedin.com/in/kelechi-opurum/" target="_blank">linkedin/kelechi-opurum</a> or <a href = "mailto:kelechiopurum2005@gmail.com">send an email</a>
+  📫 reach me @ <a href="https://www.linkedin.com/in/kelechi-opurum/" target="_blank">linkedin/kelechi-opurum</a> or <a href = "mailto:kelechiopurum2005@gmail.com">send an email</a>
 </li>
 
   
