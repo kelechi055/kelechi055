@@ -13,7 +13,7 @@
     🔭 cs @ loyola university maryland <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
   </li>
   <li>
-    🌱 what i'm currently learning: python and linux <br> 
+    🌱 what i'm currently learning: infrastructure automation & benchmarking/performance engineering <br> 
   </li>
 <li>
   💻 check out my prev projects <a href="https://kelop.vercel.app/#projects" target="_blank">here</a>.
@@ -53,7 +53,9 @@
             width="40" title="Material-UI"/> 
             <img src="https://skillicons.dev/icons?i=nodejs"
             width="40" title="Node.js"/> 
-  <br> 
+  <br>
+            <img src="https://skillicons.dev/icons?i=aws" 
+            width="40" title="AWS"/>
             <img src="https://skillicons.dev/icons?i=firebase"
             width="40"title="Firebase"/>
             <img src="https://skillicons.dev/icons?i=vscode" 
