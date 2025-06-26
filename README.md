@@ -16,7 +16,7 @@
     🌱 what i'm currently learning: infrastructure automation & benchmarking/performance engineering <br> 
   </li>
 <li>
-  💻 check out my prev projects <a href="https://kelop.vercel.app/#projects" target="_blank">here</a>.
+  💻 check out my prev projects <a href="https://kelop.vercel.app/#projects" target="_blank" rel="noopener noreferrer">here</a>.
 </li>
 <li>
   🏆 4x hackathon winner
