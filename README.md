@@ -53,15 +53,17 @@
             width="40" title="Material-UI"/> 
             <img src="https://skillicons.dev/icons?i=nodejs"
             width="40" title="Node.js"/> 
+            <img src="https://skillicons.dev/icons?i=linux"
+            width="40" title="Linux"/> 
   <br>
             <img src="https://skillicons.dev/icons?i=aws" 
             width="40" title="AWS"/>
+            <img src="https://skillicons.dev/icons?i=docker" 
+            width="40" title="Docker"/>
             <img src="https://skillicons.dev/icons?i=firebase"
             width="40"title="Firebase"/>
             <img src="https://skillicons.dev/icons?i=vscode" 
             width="40" title="VS Code"/>
-            <img src="https://skillicons.dev/icons?i=github" 
-            width="40" title="GitHub"/>
             <img src="https://skillicons.dev/icons?i=vercel"
             width="40" title="Vercel"/> 
             <img src="https://skillicons.dev/icons?i=figma" 
