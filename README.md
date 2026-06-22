@@ -13,7 +13,7 @@
     🔭 cs @ loyola university maryland <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
   </li>
   <li>
-    🌱 what i'm currently learning: cloud / automation <br> 
+    🌱 what i'm currently learning: cloud infra / automation <br> 
   </li>
 <li>
   💻 check out my prev projects <a href="https://kelech1.vercel.app/#projects" target="_blank" rel="noopener noreferrer">here</a>.
