@@ -1,5 +1,7 @@
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=kelechi055&style=flat-square&color=blue" alt="GitHub profile views">
+  <img src="https://komarev.com/ghpvc/?username=kelechi055&style=flat-square&color=blue" alt="GitHub profile views">
+  <img src="https://wakatime.com/badge/user/b7c26856-cfc9-48ca-a96c-162288466272.svg"> 
+  <img src="https://img.shields.io/github/stars/kelechi055?style=flat-square" alt="GitHub stars">
 </div>
 
 <h1 align="center">
@@ -72,8 +74,6 @@
 </div>
 
 ---
-<div align="center">
-<img src="https://wakatime.com/badge/user/b7c26856-cfc9-48ca-a96c-162288466272.svg"> 
     
 ### :fire: My Stats:
 
