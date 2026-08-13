@@ -44,9 +44,13 @@
             width="40" title="TypeScript"/>
             <img src="https://skillicons.dev/icons?i=javascript" 
             width="40" title="JavaScript"/>
+            <img src="https://skillicons.dev/icons?i=bash" 
+            width="40" title="Bash"/>
   <br> 
             <img src="https://skillicons.dev/icons?i=react"
             width="40" title="React"/>
+            <img src="https://skillicons.dev/icons?i=svelte"
+            width="40" title="Svelte"/> 
             <img src="https://skillicons.dev/icons?i=nextjs"
             width="40" title="Next.js"/>  
             <img src="https://skillicons.dev/icons?i=tailwind"
@@ -59,18 +63,34 @@
             width="40" title="Linux"/> 
   <br>
             <img src="https://skillicons.dev/icons?i=aws" 
-            width="40" title="AWS"/>
+            width="40" title="Amazon Web Services"/>
+            <img src="https://skillicons.dev/icons?i=gcp" 
+            width="40" title="Google Cloud Platform"/>
+            <img src="https://skillicons.dev/icons?i=azure" 
+            width="40" title="Microsoft Azure"/>
+            <img src="https://www.celigo.com/wp-content/uploads/2022/11/brandmark-logo-oracle.svg"
+            width="40" title="Oracle Cloud Infrastructure">
             <img src="https://skillicons.dev/icons?i=docker" 
             width="40" title="Docker"/>
+            <img src="https://skillicons.dev/icons?i=terraform" 
+            width="40" title="Terraform"/>
+            <img src="https://skillicons.dev/icons?i=ansible" 
+            width="40" title="Ansible"/>
+  <br>
+            <img src="https://skillicons.dev/icons?i=gitlab"
+            width="40"title="GitLab"/>
             <img src="https://skillicons.dev/icons?i=firebase"
             width="40"title="Firebase"/>
-            <img src="https://skillicons.dev/icons?i=vscode" 
-            width="40" title="VS Code"/>
             <img src="https://skillicons.dev/icons?i=vercel"
             width="40" title="Vercel"/> 
             <img src="https://skillicons.dev/icons?i=figma" 
             width="40" title="Figma"/>
-            <br> 
+            <img src="https://skillicons.dev/icons?i=blender" 
+            width="40" title="Blender"/>
+            <img src="https://skillicons.dev/icons?i=robloxstudio" 
+            width="40" title="Roblox Studio"/>
+            <img src="https://skillicons.dev/icons?i=lua" 
+            width="40" title="Lua"/>
 </div>
 
 ---
