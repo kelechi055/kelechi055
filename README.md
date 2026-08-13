@@ -30,68 +30,43 @@
   
 ---
 
-### 🧠 Languages and Tools:
-<div>
-            <img src="https://skillicons.dev/icons?i=python"
-            width="40" title="Python" />
-            <img src="https://skillicons.dev/icons?i=java" 
-            width="40" title="Java"/>
-            <img src="https://skillicons.dev/icons?i=html" 
-            width="40" title="HTML"/>
-            <img src="https://skillicons.dev/icons?i=css" 
-            width="40" title="CSS"/> 
-            <img src="https://skillicons.dev/icons?i=typescript"
-            width="40" title="TypeScript"/>
-            <img src="https://skillicons.dev/icons?i=javascript" 
-            width="40" title="JavaScript"/>
-            <img src="https://skillicons.dev/icons?i=bash" 
-            width="40" title="Bash"/>
-  <br> 
-            <img src="https://skillicons.dev/icons?i=react"
-            width="40" title="React"/>
-            <img src="https://skillicons.dev/icons?i=svelte"
-            width="40" title="Svelte"/> 
-            <img src="https://skillicons.dev/icons?i=nextjs"
-            width="40" title="Next.js"/>  
-            <img src="https://skillicons.dev/icons?i=tailwind"
-            width="40"title="TailwindCSS"/>
-            <img src="https://skillicons.dev/icons?i=materialui"
-            width="40" title="Material-UI"/> 
-            <img src="https://skillicons.dev/icons?i=nodejs"
-            width="40" title="Node.js"/> 
-            <img src="https://skillicons.dev/icons?i=linux"
-            width="40" title="Linux"/> 
-  <br>
-            <img src="https://skillicons.dev/icons?i=aws" 
-            width="40" title="Amazon Web Services"/>
-            <img src="https://skillicons.dev/icons?i=gcp" 
-            width="40" title="Google Cloud Platform"/>
-            <img src="https://skillicons.dev/icons?i=azure" 
-            width="40" title="Microsoft Azure"/>
-            <img src="https://www.celigo.com/wp-content/uploads/2022/11/brandmark-logo-oracle.svg"
-            width="40" title="Oracle Cloud Infrastructure">
-            <img src="https://skillicons.dev/icons?i=docker" 
-            width="40" title="Docker"/>
-            <img src="https://skillicons.dev/icons?i=terraform" 
-            width="40" title="Terraform"/>
-            <img src="https://skillicons.dev/icons?i=ansible" 
-            width="40" title="Ansible"/>
-  <br>
-            <img src="https://skillicons.dev/icons?i=gitlab"
-            width="40"title="GitLab"/>
-            <img src="https://skillicons.dev/icons?i=firebase"
-            width="40"title="Firebase"/>
-            <img src="https://skillicons.dev/icons?i=vercel"
-            width="40" title="Vercel"/> 
-            <img src="https://skillicons.dev/icons?i=figma" 
-            width="40" title="Figma"/>
-            <img src="https://skillicons.dev/icons?i=blender" 
-            width="40" title="Blender"/>
-            <img src="https://skillicons.dev/icons?i=robloxstudio" 
-            width="40" title="Roblox Studio"/>
-            <img src="https://skillicons.dev/icons?i=lua" 
-            width="40" title="Lua"/>
-</div>
+### 🧠 Tech Stack
+
+**Languages**  
+<img src="https://skillicons.dev/icons?i=python" width="48" title="Python" alt="Python" />
+<img src="https://skillicons.dev/icons?i=java" width="48" title="Java" alt="Java" />
+<img src="https://skillicons.dev/icons?i=javascript" width="48" title="JavaScript" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=typescript" width="48" title="TypeScript" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=html" width="48" title="HTML" alt="HTML" />
+<img src="https://skillicons.dev/icons?i=css" width="48" title="CSS" alt="CSS" />
+<img src="https://skillicons.dev/icons?i=bash" width="48" title="Bash" alt="Bash" />
+
+**Frameworks & Libraries**  
+<img src="https://skillicons.dev/icons?i=react" width="48" title="React" alt="React" />
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" title="Next.js" alt="Next.js" />
+<img src="https://skillicons.dev/icons?i=svelte" width="48" title="Svelte" alt="Svelte" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" title="Node.js" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" title="Tailwind CSS" alt="Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=materialui" width="48" title="Material UI" alt="Material UI" />
+<img src="https://skillicons.dev/icons?i=express" width="48" title="Express.js" alt="Express.js" />
+
+**Cloud & Infrastructure**  
+<img src="https://skillicons.dev/icons?i=aws" width="48" title="Amazon Web Services" alt="AWS" />
+<img src="https://skillicons.dev/icons?i=gcp" width="48" title="Google Cloud Platform" alt="Google Cloud Platform" />
+<img src="https://skillicons.dev/icons?i=azure" width="48" title="Microsoft Azure" alt="Microsoft Azure" />
+<img src="https://www.celigo.com/wp-content/uploads/2022/11/brandmark-logo-oracle.svg" width="48" height="48" title="Oracle Cloud Infrastructure" alt="Oracle Cloud Infrastructure" />
+<img src="https://skillicons.dev/icons?i=docker" width="48" title="Docker" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=terraform" width="48" title="Terraform" alt="Terraform" />
+<img src="https://skillicons.dev/icons?i=ansible" width="48" title="Ansible" alt="Ansible" />
+
+**Tools & Platforms**  
+<img src="https://skillicons.dev/icons?i=linux" width="48" title="Linux" alt="Linux" />
+<img src="https://skillicons.dev/icons?i=gitlab" width="48" title="GitLab" alt="GitLab" />
+<img src="https://skillicons.dev/icons?i=firebase" width="48" title="Firebase" alt="Firebase" />
+<img src="https://skillicons.dev/icons?i=vercel" width="48" title="Vercel" alt="Vercel" />
+<img src="https://skillicons.dev/icons?i=figma" width="48" title="Figma" alt="Figma" />
+<img src="https://skillicons.dev/icons?i=jenkins" width="48" title="Jenkins" alt="Jenkins" />
+<img src="https://skillicons.dev/icons?i=vscode" width="48" title="Visual Studio Code" alt="Visual Studio Code" />
 
 ---
     
