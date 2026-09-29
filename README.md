@@ -15,10 +15,10 @@
     🔭 cs @ loyola university maryland <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br> 
   </li>
   <li>
-    🌱 what i'm currently learning: cloud infra / automation <br> 
+    🦾 prev 2x swe intern @ arm, 2x app dev intern @ cybervillage networkers, swe intern @ openqquantify <br> 
   </li>
 <li>
-  💻 check out my prev projects <a href="https://kelech1.vercel.app/#projects" target="_blank" rel="noopener noreferrer">here</a>.
+  💻 check out my previous projects <a href="https://kelech1.vercel.app/#projects" target="_blank" rel="noopener noreferrer">here</a>.
 </li>
 <li>
   🏆 4x hackathon winner
